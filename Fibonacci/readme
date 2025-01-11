@@ -1,0 +1,15 @@
+Ontem em meu trabalho enquando estudava, um colega viu e questionou
+sobre o Python seguindo pelo desafio de fazer uma sequencia Fibonacci,
+de primeiro momento eu sequer sabia o que era Fibonacci, mas logo pesquisei
+ao chegar em casa tratei logo de fazer o exercicio procurando pela Internet
+para entender que a sequencia se trata do 3° número que é a soma dos 2
+números anteriores, logo se inicia com 0 e 1 que tem o resultado de soma 1,
+que gera o proximo número da sequencia 1, então a soma novamente recomeça agora
+com 1 + 1 que tem o resultado 2 que novamente segue a 3° soma com resultado 3 somando 1 +2,
+então todas essas somas seguem infinitamente, neste exercicio conseguimos solicitar
+uma quantidade X de sequencias que desejamos saber, então fica um resultado finito
+por limitação do código.
+feito e será apresentado na proxima semana 13/01/2025.
+Att,
+Wagner Stefano.
+Seguindo diariamente nos estudos e exercicios.
